@@ -1,4 +1,4 @@
-What is XNU? test
+What is XNU?
 ===========
 
 XNU kernel is part of the Darwin operating system for use in OS X and iOS operating systems. XNU is an acronym for XNU is Not Unix.
